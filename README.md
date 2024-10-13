@@ -1,3 +1,5 @@
+[![deploy](https://github.com/johannmorales/promesaslitoxx/actions/workflows/deploy.yml/badge.svg)](https://github.com/johannmorales/promesaslitoxx/actions/workflows/deploy.yml)
+[![pages-build-deployment](https://github.com/johannmorales/promesaslitoxx/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/johannmorales/promesaslitoxx/actions/workflows/pages/pages-build-deployment)
 ## Contribuir
 
 Si deseas agregar mas promesas / actualiazar alguna,  crea un pull request [aqui](https://github.com/johannmorales/promesaslitoxx/pulls). 
