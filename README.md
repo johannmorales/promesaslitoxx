@@ -19,7 +19,7 @@ Actualmente solo modificaciones al json de promesas seran aceptadas
 
 - Text: Contenido de la promesa
 - emote: id de emote de 7tv para esta promesa
-- date: Fecha en la que Pomelo hizo la promsa
+- date: Fecha en la que Pomelo hizo la promesa (YYYY-MM-DD)
 
 
 El id del emote se obtiene a partir de su URL en [7tv](https://7tv.app/)
